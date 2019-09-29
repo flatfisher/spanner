@@ -1,5 +1,5 @@
 # spanner
-Google Cloud Spannerの試したことを入れておくリポジトリ
+Google Cloud Spannerで試したサンプルやノウハウとかを入れておくリポジトリ
 
 ## gcloud
 
