@@ -1,5 +1,5 @@
 # spanner
-Google Cloud Spanner
+Google Cloud Spannerの試したことを入れておくリポジトリ
 
 ## gcloud
 
