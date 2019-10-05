@@ -10,3 +10,6 @@ gcloud spanner databases execute-sql {DATABASE_ID} --instance={INSTANCE_ID} --sq
 
 ## コンセプト
 hogehoge
+
+## Tips
+hogehoge
