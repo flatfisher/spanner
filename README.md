@@ -12,4 +12,4 @@ gcloud spanner databases execute-sql {DATABASE_ID} --instance={INSTANCE_ID} --sq
 hogehoge
 
 ## Tips
-hogehoge
+- mySQLからの移行
